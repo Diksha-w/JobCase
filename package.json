@@ -1,0 +1,36 @@
+{
+  "name": "job.org",
+  "version": "1.0.0",
+  "description": "HHHHHH",
+  "main": "server.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "connect-mongo": "^3.2.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-http-proxy": "^1.6.2",
+    "express-minify": "^1.0.0",
+    "express-session": "^1.17.1",
+    "googleapis": "^67.0.0",
+    "mongoose": "^5.11.15",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    
+  },
+  "author": "Diksha",
+  "license": "ISC",
+  //"bugs": {
+   // "url": "https://github.com/Diksha-w/JobCase/issues"
+  //},
+  //"homepage": "https://github.com/Diksha-w/JobCase#readme"
+}

@@ -28,9 +28,6 @@
     
   },
   "author": "Diksha",
-  "license": "ISC",
-  //"bugs": {
-   // "url": "https://github.com/Diksha-w/JobCase/issues"
-  //},
-  //"homepage": "https://github.com/Diksha-w/JobCase#readme"
+  "license": "ISC"
+
 }
